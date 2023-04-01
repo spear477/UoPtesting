@@ -1,0 +1,9 @@
+Japan : Tokyo
+South Korea : Seoul
+India : New Delhi
+England : London
+France : Paris
+Spain : Madrid
+Italy : Rome
+Germany : Berlin
+USA : Washinton D.C.

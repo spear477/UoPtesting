@@ -1,0 +1,14 @@
+{
+	"java.debug.settings.onBuildFailureProceed": true,
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/Users/aungko/Desktop/javafx-sdk-19.0.2.1/lib/javafx-swt.jar",
+		"/Users/aungko/Desktop/javafx-sdk-19.0.2.1/lib/javafx.base.jar",
+		"/Users/aungko/Desktop/javafx-sdk-19.0.2.1/lib/javafx.controls.jar",
+		"/Users/aungko/Desktop/javafx-sdk-19.0.2.1/lib/javafx.fxml.jar",
+		"/Users/aungko/Desktop/javafx-sdk-19.0.2.1/lib/javafx.graphics.jar",
+		"/Users/aungko/Desktop/javafx-sdk-19.0.2.1/lib/javafx.media.jar",
+		"/Users/aungko/Desktop/javafx-sdk-19.0.2.1/lib/javafx.swing.jar",
+		"/Users/aungko/Desktop/javafx-sdk-19.0.2.1/lib/javafx.web.jar"
+	]
+}

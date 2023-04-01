@@ -1,0 +1,126 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Zap",
+			"request": "launch",
+			"mainClass": "Zap",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "ArrayGames",
+			"request": "launch",
+			"mainClass": "week7.ArrayGames",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "WrapperDemo",
+			"request": "launch",
+			"mainClass": "week7.WrapperDemo",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "Food",
+			"request": "launch",
+			"mainClass": "Food",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Quiz",
+			"request": "launch",
+			"mainClass": "CS1102.Quiz",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "SuperPower",
+			"request": "launch",
+			"mainClass": "CS1102.SuperPower",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "Lunch",
+			"request": "launch",
+			"mainClass": "Lunch",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "Test",
+			"request": "launch",
+			"mainClass": "Test",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "Testing",
+			"request": "launch",
+			"mainClass": "Testing",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "main",
+			"request": "launch",
+			"mainClass": "main",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "thisTest",
+			"request": "launch",
+			"mainClass": "thisTest",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "loop1",
+			"request": "launch",
+			"mainClass": "week2.loop1",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "loop2",
+			"request": "launch",
+			"mainClass": "week2.loop2",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "loop3",
+			"request": "launch",
+			"mainClass": "week2.loop3",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "Test(1)",
+			"request": "launch",
+			"mainClass": "week3.Test",
+			"projectName": "Java_85bc2ebd"
+		},
+		{
+			"type": "java",
+			"name": "Testing(1)",
+			"request": "launch",
+			"mainClass": "week6.Testing",
+			"projectName": "Java_85bc2ebd"
+		}
+	]
+}

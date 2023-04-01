@@ -1,0 +1,1 @@
+my_dict = {'Animals' : ['Dog', 'Cat', 'Monkey'], 'Fruits' : ['Apple', 'Orange', 'Pineapple'], 'Countries' : ['England', 'USA', 'Japan']}
